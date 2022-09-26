@@ -10,6 +10,15 @@
   
  [![GitHub Streak](https://streak-stats.demolab.com/?user=inandout-kr&theme=dark)](https://git.io/streak-stats)
   
+  
+![overview](https://raw.githubusercontent.com/inandout-kr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  
+ 
+![languages](https://raw.githubusercontent.com/inandout-kr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+  
+  
+  
 <!--
 **inandout-kr/inandout-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
